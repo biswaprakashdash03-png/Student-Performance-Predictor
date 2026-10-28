@@ -108,7 +108,7 @@ git init
 git add .
 git commit -m "Build Student Performance Predictor ML project"
 git branch -M main
-git remote add origin https://github.com/YOUR-USERNAME/Student-Performance-Predictor.git
+git remote add origin https://github.com/biswaprakashdash03-png/Student-Performance-Predictor.git
 git push -u origin main
 ```
 
